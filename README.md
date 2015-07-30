@@ -25,8 +25,13 @@ To translate it, create a Localizable.strings file and put the necessary. For ex
                       end of the word
                       
 "week" = "semana";
+
 "day" = "dia";
+
 "hour" = "hora";
+
 "minute" = "minuto";
+
 "second" = "segundo";
+
   
