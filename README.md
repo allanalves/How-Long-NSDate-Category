@@ -1,5 +1,5 @@
 # How-Long-NSDate-Category
-Category for NSDate used to describe how long something occurred in past.
+Category for NSDate used to describe how long something occurred in past.\n
 (Currently only Objective-C is supported)
 
 Given a NSDate instance, it's main method returns a NSString describing in a simple understanding way to the
