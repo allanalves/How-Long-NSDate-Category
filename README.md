@@ -14,6 +14,7 @@ To use it:
 To translate it, create a Localizable.strings file and put the necessary. For example, in Portuguese-BR:
 
 "right now" = "agora mesmo";
+
 "yesterday" = "ontem"
 
 "year" = "ano"; //for the plural words, it automatically puts a "S" at the end
